@@ -32,7 +32,7 @@ int main()
     cout << "\t\t\t\t\t\t\t|                                                                 |" << endl;
     cout << "\t\t\t\t\t\t\t|                            MADE BY                              |" << endl;
     cout << "\t\t\t\t\t\t\t|                                                                 |" << endl;
-    cout << "\t\t\t\t\t\t\t|                HARDIK ARORA AND LAKSHAY CHANDRA                 |" << endl;
+    cout << "\t\t\t\t\t\t\t|                           HARDIK ARORA                          |" << endl;
     cout << "\t\t\t\t\t\t\t|                                                                 |" << endl;
     cout << "\t\t\t\t\t\t\t|                                                                 |" << endl;
     while (role == '1')
